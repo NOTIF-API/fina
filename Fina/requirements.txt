@@ -1,0 +1,6 @@
+discord
+discord.py
+pysftp
+beautifulsoup4
+python-steam-api
+psutil

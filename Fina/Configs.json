@@ -1,0 +1,15 @@
+{
+    "bot": 
+    {
+        "Name": "Fina",
+        "Prefix": "!",
+        "Token": "NzczNTI0MjIzNDMxMDE2NDQ4.GcGfPq.O4ZkISJeXfbAd98TQuI_JzPtMV0PVVqVdGd8gg"
+    },
+    "Sftp":
+    {
+        "HostName": "sftp://de1.exiled.host",
+        "UserName": "vlad_blackdrag_real5kq.91813ca5",
+        "Password": "LaFesta1749#@123",
+        "Port": 2022
+    }
+}
